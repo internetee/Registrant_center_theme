@@ -1,0 +1,22 @@
+{
+  "name": "eis-registrant-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "semantic-ui": "2.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/internetee/registrant_center_theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/internetee/registrant_center_theme/issues"
+  },
+  "homepage": "https://github.com/internetee/registrant_center_theme#readme"
+}
